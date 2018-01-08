@@ -1,0 +1,13 @@
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\homework007\bin\Debug\homework007.exe.config
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\bin\Debug\homework007.exe.config
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\bin\Debug\homework007.exe
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\bin\Debug\homework007.pdb
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.csprojResolveAssemblyReference.cache
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.Administrator.resources
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.Properties.Resources.resources
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.Registration.resources
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.csproj.GenerateResource.Cache
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.exe
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.pdb
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.ResetPassword.resources
+E:\有用\研一\C＃\作业\第七次作业\homework007\homework007\obj\Debug\homework007.StudentManagement.resources
